@@ -15,7 +15,3 @@
 - 💞️ I’m looking to learn more Javascript, how to collaborate using github!  
 - 📫 How to reach me - I will update this later! 
 
-<!---
-Fatheroft/Fatheroft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
